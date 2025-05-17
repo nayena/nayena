@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Nayeli </h2>
-<h2 align="left">  I'm a student at Brandeis University Studying Computer Science an Business. Let's connect! </h2>
+<h1 align="left">  I'm a student at Brandeis University Studying Computer Science and Business. </h1>
+ <h1> Let's connect! </h1>
 ###
 
 <div align="center">
