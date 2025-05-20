@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! My name is Nayeli </h2>
 <h3 align="left">  I'm a student at Brandeis University, studying Computer Science and Business. </h3>
  <h3> Let's connect! </h3>
-###
 
+
+ 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
