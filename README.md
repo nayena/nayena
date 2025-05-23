@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **heidynaranjo@brandeis.edu**
 
-- 📄 Know about my experiences [Link to my Resume]((https://drive.google.com/file/d/1XLfhXNvU929NP_TmNxmTA8vaBsBHo5Sz/view?usp=sharing)
+- 📄 Know about my experiences [Link to my Resume](https://drive.google.com/file/d/1XLfhXNvU929NP_TmNxmTA8vaBsBHo5Sz/view?usp=sharing)
 
 - ⚡ Fun fact, you can check my Hackathon Projects here: **https://devpost.com/nayena?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav**
 
