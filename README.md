@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, I'm Heidy Nayeli Naranjo</h1>
 <h3 align="center">A passionate frontend developer studying Computer Science and Business</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayena&label=Profile%20views&color=0e75b6&style=flat" alt="nayena" /> </p>
+```java
+public class HeidyNayeli
+{
+  private int age = 20;
+  public String[] hobbies = new String[] { "Gym", "Anime", "Leetcode", "Drinking Boba"};
+  private String favoriteAnime = "Black Clover";
+  private String favoriteVisitedCountry = Singapore
+}
+```
 
-- 🔭 I’m currently working on **Branda App**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayena&label=Profile%20views&color=0e75b6&style=flat" alt="nayena" /> </p>
+About me: 
 
 - 🌱 I’m currently learning **C#, Swift and ML**
 
 - 👨‍💻 All of my projects are available Here and [https://heidynaranjo.com/](https://heidynaranjo.com/)
 
-- 💬 Ask me about **Hackathons, projects, game development**
-
 - 📫 How to reach me **heidynaranjo@brandeis.edu**
 
-- 📄 Know about my experiences [Link to my Resume](https://drive.google.com/file/d/1XLfhXNvU929NP_TmNxmTA8vaBsBHo5Sz/view?usp=sharing)
+- 📄 Know about my experiences [Link to my Resume](https://docs.google.com/document/d/1ubvOn_FmQO-xOsj81jqy_qItMIUeqDrWwGus6ZN78DI/edit?tab=t.0)
 
 - ⚡ Fun fact, you can check my Hackathon Projects here: **https://devpost.com/nayena?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav**
 
