@@ -16,8 +16,6 @@ About me:
 
 - 🌱 I’m currently learning **C#, Swift and ML**
 
-- 👨‍💻 All of my projects are available Here and [https://heidynaranjo.com/](https://heidynaranjo.com/)
-
 - 📫 How to reach me **heidynaranjo@brandeis.edu**
 
 - 📄 Know about my experiences [Link to my Resume](https://docs.google.com/document/d/1ubvOn_FmQO-xOsj81jqy_qItMIUeqDrWwGus6ZN78DI/edit?tab=t.0)
