@@ -10,6 +10,11 @@ public class HeidyNayeli
   private String favoriteVisitedCountry = Singapore
 }
 ```
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
+
+<div id="header" align="center">
+  <img src="https://preview.redd.it/rqjwfhkr3bb71.gif?width=500&auto=webp&s=8ec91316c5b36c9b26399275e4852f32cb735d25" width="500"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayena&label=Profile%20views&color=0e75b6&style=flat" alt="nayena" /> </p>
 About me: 
